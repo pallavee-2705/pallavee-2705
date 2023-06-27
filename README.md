@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am Pallavee 👋
 
 <!--
 **pallavee-2705/pallavee-2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="100"/>
+</div>
+---
+## :woman_technologist: About Me : I am a graduate student currently pursuing Master of Engineering in Software Engineering from Western University. 
+
+
