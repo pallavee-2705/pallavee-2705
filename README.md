@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - &#x1F469; She/Her
 - :mortar_board: I'm currently embarking on an exhilarating journey as a graduate student, pursuing my Masters of Engineering in Software Engineering from Western University. 
 - :raised_hands: In my free time, I like to volunteer for the Children's Health Foundation, situated in London, Ontario.
-- :mailbox:Please reach me at: [![LinkedIn Badge](https://img.shields.io/badge/-Pallavee-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/pallavee-bisoyee-784b7b216)
+- :mailbox:Please reach me at: [![LinkedIn Badge](https://img.shields.io/badge/-Pallavee-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/pallavee-bisoyee-784b7b216) [pallaveebisoyee@gmail.com](mailto:pallaveebisoyee@gmail.com) &nbsp; \u2709
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -35,11 +36,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/assembly/assembly-original.svg" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
 
