@@ -47,13 +47,12 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-### Here are some of my projects!
+### :rocket: Here are some of my projects!
 
-- [Pokedex](https://github.com/pallavee-2705/pokedex) - A website for searching and exploring Pokémon information.
-- [Music App](https://github.com/pallavee-2705/music-app) - A music application with frontend in HTML and CSS and a JSON-based backend.
-- [GETSETFIT](https://github.com/pallavee-2705/getsetfit) - Fitness Android Application.
-- [Brain Tumour Classification](https://github.com/pallavee-2705/brain-tumour-classification) - Automated brain tumor detection using deep learning algorithms and CNNs.
-- [Covid-19 Trend Prediction](https://github.com/pallavee-2705/covid-19-trend-prediction) - Predicting the spread of Covid-19 using machine learning models.
-- [Artificial Intelligence Project](https://github.com/pallavee-2705/ai-project) - Project related to Artificial Intelligence.
-- [Military-Based Intrusion Monitoring System](https://github.com/pallavee-2705/intrusion-monitoring-system) - Simulation-based project for military base intrusion detection.
-- [Lets Fight Crime](https://github.com/pallavee-2705/lets-fight-crime) - Online crime reporting website.
+- :game_die: [Pokedex](https://github.com/pallavee-2705/pokedex) - A website for searching and exploring Pokémon information.
+- :musical_note: [Music App](https://github.com/pallavee-2705/music-app) - A music application with frontend in HTML and CSS and a JSON-based backend.
+- :weight_lifting: [GETSETFIT](https://github.com/pallavee-2705/getsetfit) - Fitness Android Application.
+- :brain: [Brain Tumour Classification](https://github.com/pallavee-2705/brain-tumour-classification) - Automated brain tumor detection using deep learning algorithms and CNNs.
+- :bar_chart: [Covid-19 Trend Prediction](https://github.com/pallavee-2705/covid-19-trend-prediction) - Predicting the spread of Covid-19 using machine learning models.
+- :boom: [Military-Based Intrusion Monitoring System](https://github.com/pallavee-2705/intrusion-monitoring-system) - Simulation-based project for military base intrusion detection.
+- :police_car: [Lets Fight Crime](https://github.com/pallavee-2705/lets-fight-crime) - Online crime reporting website.
