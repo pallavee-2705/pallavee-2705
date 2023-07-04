@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="100"/>
 </div>
+<br>
 
 - :woman_technologist: About Me : I'm a passionate Software Engineer and frontend enthusiast, dedicated to creating intuitive user experiences through innovative web development and design.
 - :mortar_board: I'm currently embarking on an exhilarating journey as a graduate student, pursuing my Masters of Engineering in Software Engineering from Western University. 
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/-Pallavee-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pallavee-bisoyee-784b7b216)<br>
 ✉ pallaveebisoyee@gmail.com<br>
 
-
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
