@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 - :mailbox:Please reach me at:
 - [![LinkedIn Badge](https://img.shields.io/badge/-Pallavee-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/pallavee-bisoyee-784b7b216)
 - [pallaveebisoyee@gmail.com](mailto:pallaveebisoyee@gmail.com) &nbsp; &#9993;
-- 📫 Please reach me at: [LinkedIn Badge](https://www.linkedin.com/in/your-profile) &nbsp; pallaveebisoyee@gmail.com &nbsp; ✉
+- 📫 Please reach me at:<br>
+[![LinkedIn Badge](https://img.shields.io/badge/-Pallavee-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/pallavee-bisoyee-784b7b216)<br>
+✉ pallaveebisoyee@gmail.com<br>
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
