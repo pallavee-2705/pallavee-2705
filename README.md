@@ -64,4 +64,8 @@ Here are some ideas to get you started:
 <br>
 
 ### :bookmark_tabs: Certifications:
-- [Programming Foundations with JavaScript, HTML and CSS](https://coursera.org/share/9c28f9ffea50c45b9762bb28ed74d729)
+- [Programming Foundations with JavaScript, HTML and CSS](https://coursera.org/share/3a1bd15920c960d48947ff16ca79df2e)
+- [Introduction to HTML5](https://coursera.org/share/a5729484d4f9cb7c95517b31a2abc09d)
+- [Introduction to the Internet of Things and Embedded Systems](https://coursera.org/share/d729efdc37c1a3e0ed8bdb67face7a67)
+- [Fundamentals of Network Communication](https://coursera.org/share/03bd22699bc08a194dc07df9b0b9888e)
+- [The Unix Workbench](https://coursera.org/share/f9c4df77075d29be421016ee2c0371cb)
