@@ -56,3 +56,8 @@ Here are some ideas to get you started:
 - :bar_chart: [Covid-19 Trend Prediction](https://github.com/pallavee-2705/covid-19-trend-prediction) - Predicting the spread of Covid-19 using machine learning models.
 - :boom: [Military-Based Intrusion Monitoring System](https://github.com/pallavee-2705/intrusion-monitoring-system) - Simulation-based project for military base intrusion detection.
 - :police_car: [Lets Fight Crime](https://github.com/pallavee-2705/lets-fight-crime) - Online crime reporting website.
+<br>
+
+### :\uD83D\uDCDA Publications: 
+- [Food Quality Assurance using Artificial Intelligence: A Review Paper](https://www.researchgate.net/publication/354031660_Food_Quality_Assurance_using_Artificial_Intelligence_A_Review_Paper) - International Journal of Research in Engineering and Technology, August 2021
+- [Smart Solar Theft Monitoring System](https://www.researchgate.net/publication/353447317_Smart_Solar_Theft_Monitoring_System) - Technical Report, July 2021
