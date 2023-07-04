@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 - :police_car: [Lets Fight Crime](https://github.com/pallavee-2705/lets-fight-crime) - Online crime reporting website.
 <br>
 
-### :scroll: Publications:
+### :bulb: Publications:
 - [Food Quality Assurance using Artificial Intelligence: A Review Paper](https://www.researchgate.net/publication/354031660_Food_Quality_Assurance_using_Artificial_Intelligence_A_Review_Paper) - International Journal of Research in Engineering and Technology, Vol. 08, Issue 08, August 2021
 - [Smart Solar Theft Monitoring System](https://www.researchgate.net/publication/353447317_Smart_Solar_Theft_Monitoring_System) - International Journal of Advanced Research in Computer and Communication Engineering, Vol. 10, Issue 7, July 2021
 <br>
 
-### :page_with_curl: Certifications:
+### :scroll: Certifications:
 - [Programming Foundations with JavaScript, HTML and CSS](https://coursera.org/share/3a1bd15920c960d48947ff16ca79df2e)
 - [Introduction to HTML5](https://coursera.org/share/a5729484d4f9cb7c95517b31a2abc09d)
 - [Introduction to the Internet of Things and Embedded Systems](https://coursera.org/share/d729efdc37c1a3e0ed8bdb67face7a67)
