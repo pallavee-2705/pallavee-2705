@@ -46,4 +46,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+## Here are some of my projects!
 
+- [Pokedex](https://github.com/pallavee-2705/pokedex) - A website for searching and exploring Pokémon information.
+- [Music App](https://github.com/pallavee-2705/music-app) - A music application with frontend in HTML and CSS and a JSON-based backend.
+- [GETSETFIT](https://github.com/pallavee-2705/getsetfit) - Fitness Android Application.
+- [Brain Tumour Classification](https://github.com/pallavee-2705/brain-tumour-classification) - Automated brain tumor detection using deep learning algorithms and CNNs.
+- [Covid-19 Trend Prediction](https://github.com/pallavee-2705/covid-19-trend-prediction) - Predicting the spread of Covid-19 using machine learning models.
+- [Artificial Intelligence Project](https://github.com/pallavee-2705/ai-project) - Project related to Artificial Intelligence.
+- [Military-Based Intrusion Monitoring System](https://github.com/pallavee-2705/intrusion-monitoring-system) - Simulation-based project for military base intrusion detection.
+- [Lets Fight Crime](https://github.com/pallavee-2705/lets-fight-crime) - Online crime reporting website.
