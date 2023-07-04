@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - :police_car: [Lets Fight Crime](https://github.com/pallavee-2705/lets-fight-crime) - Online crime reporting website.
 <br>
 
-### :books: Publications:
+### :scroll: Publications:
 - [Food Quality Assurance using Artificial Intelligence: A Review Paper](https://www.researchgate.net/publication/354031660_Food_Quality_Assurance_using_Artificial_Intelligence_A_Review_Paper) - International Journal of Research in Engineering and Technology, Vol. 08, Issue 08, August 2021
 - [Smart Solar Theft Monitoring System](https://www.researchgate.net/publication/353447317_Smart_Solar_Theft_Monitoring_System) - International Journal of Advanced Research in Computer and Communication Engineering, Vol. 10, Issue 7, July 2021
 <br>
