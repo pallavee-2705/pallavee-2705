@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 </div>
 
 - :woman_technologist: About Me : I'm a passionate Software Engineer and frontend enthusiast, dedicated to creating intuitive user experiences through innovative web development and design.
-- &#x1F469; She/Her
 - :mortar_board: I'm currently embarking on an exhilarating journey as a graduate student, pursuing my Masters of Engineering in Software Engineering from Western University. 
 - :raised_hands: In my free time, I like to volunteer for the Children's Health Foundation, situated in London, Ontario.
 - 📫 Please reach me at:<br>
-[![LinkedIn Badge](https://img.shields.io/badge/-Pallavee-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/pallavee-bisoyee-784b7b216)<br>
+[![LinkedIn Badge](https://img.shields.io/badge/-Pallavee-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pallavee-bisoyee-784b7b216)
 ✉ pallaveebisoyee@gmail.com<br>
 
 
@@ -58,6 +57,6 @@ Here are some ideas to get you started:
 - :police_car: [Lets Fight Crime](https://github.com/pallavee-2705/lets-fight-crime) - Online crime reporting website.
 <br>
 
-### \uDCDA Publications: 
+### :\uDCDA Publications: 
 - [Food Quality Assurance using Artificial Intelligence: A Review Paper](https://www.researchgate.net/publication/354031660_Food_Quality_Assurance_using_Artificial_Intelligence_A_Review_Paper) - International Journal of Research in Engineering and Technology, Vol. 08, Issue 08, August 2021
 - [Smart Solar Theft Monitoring System](https://www.researchgate.net/publication/353447317_Smart_Solar_Theft_Monitoring_System) - International Journal of Advanced Research in Computer and Communication Engineering, Vol. 10, Issue 7, July 2021
