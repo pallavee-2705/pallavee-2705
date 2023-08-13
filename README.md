@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br>
 
 ### :rocket: Here are some of my projects:
-
+- 🎨 [Interactive Sketchpad WebApp](https://github.com/pallavee-2705/Interactive-Sketchpad-WebApp.git) - Interactive Sketchpad Web App with Freehand Drawing, Line, Rectangle, and Ellipse Shapes.
 - :game_die: [Pokedex](https://github.com/pallavee-2705/pokedex) - A website for searching and exploring Pokémon information.
 - :musical_note: [Music App](https://github.com/pallavee-2705/music-app) - A music application with frontend in HTML and CSS and a JSON-based backend.
 - :weight_lifting: [GETSETFIT](https://github.com/pallavee-2705/getsetfit) - Fitness Android Application.
