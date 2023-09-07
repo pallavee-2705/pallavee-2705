@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - :woman_technologist: About Me : I'm a passionate Software Engineer and frontend enthusiast, dedicated to creating intuitive user experiences through innovative web development and design.
 - :mortar_board: I'm currently embarking on an exhilarating journey as a graduate student, pursuing my Masters of Engineering in Software Engineering from Western University. 
 - :raised_hands: In my free time, I like to volunteer for the Children's Health Foundation, situated in London, Ontario.
-- 📫 Please feel free to reach me at:<br>
+
 
 ### 📫 Please feel free to reach me at:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pallavee-bisoyee-784b7b216)    [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=mail.ru)](mailto:pallaveebisoyee@gmail.com)
