@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 - :mortar_board: I'm currently embarking on an exhilarating journey as a graduate student, pursuing my Masters of Engineering in Software Engineering from Western University. 
 - :raised_hands: In my free time, I like to volunteer for the Children's Health Foundation, situated in London, Ontario.
 - 📫 Please feel free to reach me at:<br>
-[![LinkedIn Badge](https://img.shields.io/badge/-Pallavee-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pallavee-bisoyee-784b7b216)<br>
-✉ pallaveebisoyee@gmail.com<br>
 
-## 📫 How to reach me
+## 📫 Please feel free to reach me at:<br>
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pallavee-bisoyee-784b7b216)
+  <br>
 - [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=mail.ru)](mailto:pallaveebisoyee@gmail.com)
 
 
