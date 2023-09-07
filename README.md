@@ -28,13 +28,9 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/-Pallavee-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pallavee-bisoyee-784b7b216)<br>
 ✉ pallaveebisoyee@gmail.com<br>
 
-<p>Feel free to reach me at:</p>
-<a href="https://linkedin.com/in/pallavee-bisoyee-784b7b216" target="_blank">
-  <img src="https://img.shields.io/badge/-Pallavee-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-</a><br>
-<a href="mailto:pallaveebisoyee@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Mail.ru&logoColor=white" alt="Email Badge">
-</a>
+## 📫 How to reach me
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pallavee-bisoyee-784b7b216)
+- [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=mail.ru)](mailto:pallaveebisoyee@gmail.com)
 
 
 <br>
