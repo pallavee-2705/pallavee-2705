@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 📫 Please feel free to reach me at:<br>
 
 ## 📫 Please feel free to reach me at:<br>
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pallavee-bisoyee-784b7b216) [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=mail.ru)](mailto:pallaveebisoyee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pallavee-bisoyee-784b7b216) [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=mail.ru)](mailto:pallaveebisoyee@gmail.com)
 
 
 <br>
