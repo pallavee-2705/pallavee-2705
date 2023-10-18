@@ -33,8 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  - [Tailwind CSS](https://tailwindcss.com/)
-![Tailwind CSS Logo](https://tailwindcss.com/favicon-32x32.png)
+  ![Tailwind CSS Logo](https://tailwindcss.com/favicon-32x32.png)
 
 </div>
 <br>
