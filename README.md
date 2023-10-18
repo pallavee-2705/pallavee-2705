@@ -33,14 +33,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-full.b3b2d39ea9f1b90f7d478bf0c9c3f218.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  - [Tailwind CSS](https://tailwindcss.com/)
+![Tailwind CSS Logo](https://tailwindcss.com/favicon-32x32.png)
 
 </div>
 <br>
 
 ### :rocket: Here are some of my projects:
 - 🚀 [AI Summarizer](https://github.com/pallavee-2705/ai_summarizer.git) - An AI-powered text summarization tool.
-- 🏎️ [Car Showcase](https://github.com/pallavee-2705/car_showcase.git) - A web application for finding and renting cars.
+- 🏎️ [Car Hub](https://github.com/pallavee-2705/car_showcase.git) - A web application for finding and renting cars.
 - 🎨 [Interactive Sketchpad WebApp](https://github.com/pallavee-2705/Interactive-Sketchpad-WebApp.git) - Interactive Sketchpad Web App with Freehand Drawing, Line, Rectangle, and Ellipse Shapes.
 - :game_die: [Pokedex](https://github.com/pallavee-2705/pokedex) - A website for searching and exploring Pokémon information.
 - :musical_note: [Music App](https://github.com/pallavee-2705/music-app) - A music application with frontend in HTML and CSS and a JSON-based backend.
