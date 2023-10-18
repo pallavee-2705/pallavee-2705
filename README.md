@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 <br>
 
 - :woman_technologist: About Me : I'm a passionate Software Engineer and frontend enthusiast, dedicated to creating intuitive user experiences through innovative web development and design.
-- :mortar_board: I'm currently embarking on an exhilarating journey as a graduate student, pursuing my Masters of Engineering in Software Engineering from Western University. 
+- :mortar_board: I'm currently embarking on an exhilarating journey as a graduate student, pursuing my Masters of Engineering in Software Engineering from Western University.
+- 🔭 I’m currently working on a React Native based job search application. 
+- 🌱 I’m currently learning Next.JS and React frameworks
+- 👯 👯 I’m looking to collaborate on open-source web development projects that focus on creating accessible and user-friendly applications. I'm particularly interested in projects related to improving user experiences, building responsive web apps, or developing innovative solutions using technologies like React, Next.js, and React Native. If you have an exciting project in mind, feel free to reach out for collaboration!
 - :raised_hands: In my free time, I like to volunteer for the Children's Health Foundation, situated in London, Ontario.
 
 
@@ -44,10 +47,16 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tailwindlabs/heroicons/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
 </div>
 <br>
 
 ### :rocket: Here are some of my projects:
+- 🚀 [AI Summarizer](https://github.com/pallavee-2705/ai_summarizer.git) - An AI-powered text summarization tool.
+- 🏎️ [Car Showcase](https://github.com/pallavee-2705/car_showcase.git) - A web application for finding and renting cars.
 - 🎨 [Interactive Sketchpad WebApp](https://github.com/pallavee-2705/Interactive-Sketchpad-WebApp.git) - Interactive Sketchpad Web App with Freehand Drawing, Line, Rectangle, and Ellipse Shapes.
 - :game_die: [Pokedex](https://github.com/pallavee-2705/pokedex) - A website for searching and exploring Pokémon information.
 - :musical_note: [Music App](https://github.com/pallavee-2705/music-app) - A music application with frontend in HTML and CSS and a JSON-based backend.
