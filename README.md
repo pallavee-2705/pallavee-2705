@@ -5,12 +5,12 @@
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="100"/>
 </div>
 <br>
-- :woman_technologist: About Me : I'm a passionate Software Engineer and frontend enthusiast, dedicated to creating intuitive user experiences through innovative web development and design.&nbsp;
-- :mortar_board: I'm currently embarking on an exhilarating journey as a graduate student, pursuing my Masters of Engineering in Software Engineering from Western University.&nbsp;
-- 🔭 I’m currently working on a React Native-based job search application, leveraging my skills in mobile app development.&nbsp;
-- 🌱 I’m actively learning Next.js and React frameworks to expand my expertise in web development.&nbsp;
-- 👯 I’m looking to collaborate on open-source web development projects that focus on creating accessible and user-friendly applications. I'm particularly interested in projects related to improving user experiences, building responsive web apps, or developing innovative solutions. For example, I've previously contributed to projects using technologies like React, Next.js, and React Native. If you have an exciting project in mind, feel free to reach out for collaboration!&nbsp;
-- :raised_hands: In my free time, I like to volunteer for the Children's Health Foundation, situated in London, Ontario.&nbsp;
+- :woman_technologist: About Me : I'm a passionate Software Engineer and frontend enthusiast, dedicated to creating intuitive user experiences through innovative web development and design. <br>
+- :mortar_board: I'm currently embarking on an exhilarating journey as a graduate student, pursuing my Masters of Engineering in Software Engineering from Western University.<br>
+- 🔭 I’m currently working on a React Native-based job search application, leveraging my skills in mobile app development.<br>
+- 🌱 I’m actively learning Next.js and React frameworks to expand my expertise in web development.<br>
+- 👯 I’m looking to collaborate on open-source web development projects that focus on creating accessible and user-friendly applications. I'm particularly interested in projects related to improving user experiences, building responsive web apps, or developing innovative solutions. For example, I've previously contributed to projects using technologies like React, Next.js, and React Native. If you have an exciting project in mind, feel free to reach out for collaboration!<br>
+- :raised_hands: In my free time, I like to volunteer for the Children's Health Foundation, situated in London, Ontario.<br>
 
 
 ### 📫 Please feel free to reach me at:
