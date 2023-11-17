@@ -38,7 +38,7 @@
 <br>
 
 ### :rocket: Here are some of my projects:
-- 📖 [NovelNest](https://github.com/pallavee-2705/novelnest.git)
+- 📖 [NovelNest](https://github.com/pallavee-2705/novelnest.git) - A e-commerce web application for exploring & purchasing books.
 - 🚀 [AI Summarizer](https://github.com/pallavee-2705/ai_summarizer.git) - An AI-powered text summarization tool.
 - 🏎️ [Car Hub](https://github.com/pallavee-2705/car_showcase.git) - A web application for finding and renting cars.
 - 🎨 [Interactive Sketchpad WebApp](https://github.com/pallavee-2705/Interactive-Sketchpad-WebApp.git) - Interactive Sketchpad Web App with Freehand Drawing, Line, Rectangle, and Ellipse Shapes.
